@@ -6,23 +6,23 @@
   
   <!-- الصفحة الرئيسية -->
   <url>
-    <loc>https://webfolio.com/index-compressed.html</loc>
+    <loc>https://webfolio1.github.io/webfolio/</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
-  <!-- صفحة مشروع 1 - بورتفوليو مصمم جرافيك -->
+  <!-- صفحة مشروع 1 - بورتفوليو مسوق إلكتروني -->
   <url>
-    <loc>https://webfolio.com/project1.html</loc>
+    <loc>https://webfolio1.github.io/webfolio/project1.html</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- صفحة مشروع 2 - بورتفوليو مطور ويب -->
+  <!-- صفحة مشروع 2 - بورتفوليو طبيب أسنان -->
   <url>
-    <loc>https://webfolio.com/project2.html</loc>
+    <loc>https://webfolio1.github.io/webfolio/project2.html</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
   <!-- صفحة مشروع 3 - بورتفوليو مطور AI -->
   <url>
-    <loc>https://webfolio.com/project3.html</loc>
+    <loc>https://webfolio1.github.io/webfolio/project3.html</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
