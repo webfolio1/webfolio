@@ -1,0 +1,28 @@
+# robots.txt for Webfolio - تصميم مواقع بورتفوليو احترافية
+
+User-agent: *
+Allow: /
+Allow: /index-compressed.html
+Allow: /project1.html
+Allow: /project2.html
+
+# Sitemaps
+Sitemap: https://webfolio.com/sitemap.xml
+
+# تحسين فهرسة الموقع
+Crawl-delay: 1
+
+# منع الوصول إلى ملفات غير ضرورية
+Disallow: /assets/
+Disallow: /*.js$
+Disallow: /*.css$
+
+# السماح لمحركات البحث الرئيسية
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

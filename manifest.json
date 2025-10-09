@@ -1,0 +1,28 @@
+{
+  "name": "Webfolio - تصميم مواقع بورتفوليو احترافية",
+  "short_name": "Webfolio",
+  "description": "شركة متخصصة في تصميم مواقع البورتفوليو الاحترافية. نصمم مواقع عصرية ومتجاوبة لعرض أعمالك ومهاراتك بشكل احترافي.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/index-compressed.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "categories": ["business", "design", "portfolio"],
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
